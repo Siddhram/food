@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189859662184",
+    "project_id": "siddharam-efb82",
+    "storage_bucket": "siddharam-efb82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189859662184:android:423aa53a307f3d2c20aedd",
+        "android_client_info": {
+          "package_name": "com.example.ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDH0MySHNYF_afD4Wpj1XAC3Lvbct04Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
